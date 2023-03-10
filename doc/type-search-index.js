@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"kalkulatori","l":"Calculator"},{"p":"kalkulatori","l":"CalculatorAdvanced"},{"p":"exceptions","l":"DivisionByZeroException"},{"p":"exceptions","l":"NotSupportedOperationException"},{"p":"exceptions","l":"NumberNotInAreaException"}]
